@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ecf37c1.css",
-    "main.js": "/static/js/main.85efa144.js",
-    "static/js/787.79bd06c8.chunk.js": "/static/js/787.79bd06c8.chunk.js",
-    "static/media/Hop.svg": "/static/media/Hop.e494b9f03f805e4c9e40e6f1f33faa75.svg",
-    "static/media/micOff.svg": "/static/media/micOff.3a72f6826bb2e7a426c48fc669eb7e15.svg",
-    "static/media/mic.svg": "/static/media/mic.c9c9788e560a53fd75de7d17fc772f8a.svg",
-    "static/media/cameraOff.svg": "/static/media/cameraOff.a61d4a02c0eb084663511f927eab50b6.svg",
-    "static/media/camera.svg": "/static/media/camera.b50348a3a3753a3a2bed268d795fd52d.svg",
-    "index.html": "/index.html",
-    "static/media/copy.svg": "/static/media/copy.d8713b629ec4dc2fd36ebb759aac052a.svg",
-    "static/media/send.svg": "/static/media/send.17120aeb1366cea01abfd8c59126be4b.svg",
-    "main.3ecf37c1.css.map": "/static/css/main.3ecf37c1.css.map",
-    "main.85efa144.js.map": "/static/js/main.85efa144.js.map",
-    "787.79bd06c8.chunk.js.map": "/static/js/787.79bd06c8.chunk.js.map"
+    "main.css": "/HopOn/static/css/main.3ecf37c1.css",
+    "main.js": "/HopOn/static/js/main.2670b0fd.js",
+    "static/js/787.79bd06c8.chunk.js": "/HopOn/static/js/787.79bd06c8.chunk.js",
+    "static/media/Hop.svg": "/HopOn/static/media/Hop.e494b9f03f805e4c9e40e6f1f33faa75.svg",
+    "static/media/micOff.svg": "/HopOn/static/media/micOff.3a72f6826bb2e7a426c48fc669eb7e15.svg",
+    "static/media/mic.svg": "/HopOn/static/media/mic.c9c9788e560a53fd75de7d17fc772f8a.svg",
+    "static/media/cameraOff.svg": "/HopOn/static/media/cameraOff.a61d4a02c0eb084663511f927eab50b6.svg",
+    "static/media/camera.svg": "/HopOn/static/media/camera.b50348a3a3753a3a2bed268d795fd52d.svg",
+    "index.html": "/HopOn/index.html",
+    "static/media/copy.svg": "/HopOn/static/media/copy.d8713b629ec4dc2fd36ebb759aac052a.svg",
+    "static/media/send.svg": "/HopOn/static/media/send.17120aeb1366cea01abfd8c59126be4b.svg",
+    "main.3ecf37c1.css.map": "/HopOn/static/css/main.3ecf37c1.css.map",
+    "main.2670b0fd.js.map": "/HopOn/static/js/main.2670b0fd.js.map",
+    "787.79bd06c8.chunk.js.map": "/HopOn/static/js/787.79bd06c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ecf37c1.css",
-    "static/js/main.85efa144.js"
+    "static/js/main.2670b0fd.js"
   ]
 }
