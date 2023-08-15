@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HopOn/static/css/main.2eb45054.css",
-    "main.js": "/HopOn/static/js/main.f22fbd9f.js",
+    "main.js": "/HopOn/static/js/main.f9b1a03f.js",
     "static/js/787.79bd06c8.chunk.js": "/HopOn/static/js/787.79bd06c8.chunk.js",
     "static/media/Hop.svg": "/HopOn/static/media/Hop.e494b9f03f805e4c9e40e6f1f33faa75.svg",
     "static/media/micOff.svg": "/HopOn/static/media/micOff.3a72f6826bb2e7a426c48fc669eb7e15.svg",
@@ -12,11 +12,11 @@
     "static/media/copy.svg": "/HopOn/static/media/copy.d8713b629ec4dc2fd36ebb759aac052a.svg",
     "static/media/send.svg": "/HopOn/static/media/send.17120aeb1366cea01abfd8c59126be4b.svg",
     "main.2eb45054.css.map": "/HopOn/static/css/main.2eb45054.css.map",
-    "main.f22fbd9f.js.map": "/HopOn/static/js/main.f22fbd9f.js.map",
+    "main.f9b1a03f.js.map": "/HopOn/static/js/main.f9b1a03f.js.map",
     "787.79bd06c8.chunk.js.map": "/HopOn/static/js/787.79bd06c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2eb45054.css",
-    "static/js/main.f22fbd9f.js"
+    "static/js/main.f9b1a03f.js"
   ]
 }
